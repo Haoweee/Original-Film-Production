@@ -1,0 +1,17 @@
+# ignoring all files in the directory / not tracking them
+.ipynb_checkpoints
+.pyc
+__pycache__
+.DS_Store
+nbconvert_tmp
+.vscode
+.git
+
+# ignoring large data files
+zippedData/
+extractedData/
+*.db
+*.csv
+*.tsv
+*.zip
+*.gz
